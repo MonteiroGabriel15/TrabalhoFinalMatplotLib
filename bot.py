@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import io
 from collections import Counter
 
-TOKEN = os.getenv('DISCORD_TOKEN')
+TOKEN = MTI1NDY3MDk3NTc4NjU0OTI0OA.GDWr_J.FtTLCW-A769xnKbukPNzHZC4ZPf8t445tj3Mm4
 
 intents = discord.Intents.default()
 intents.message_content = True
